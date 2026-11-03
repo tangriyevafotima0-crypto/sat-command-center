@@ -1,0 +1,639 @@
+[
+  {
+    "id": "day-03",
+    "date_str": "3-Noyabr",
+    "day_name": "Seshanba",
+    "is_today": true,
+    "category": "Algebra",
+    "topic": "Lines & Linear Foundations",
+    "topic_uz": "To'g'ri Chiziqlar va Chiziqli Asoslar (Smooth Start 1)",
+    "weight": "SAT Algebra Bo'limining ~35% qismi",
+    "badge": "Prioritet 1 · Bosimsiz Moslashuv",
+    "summary": "Burchak koeffitsiyenti (slope m), kesishish nuqtasi, Desmos interfeysi va to'g'ri chiziq grafigini erkin chizish.",
+    "math_videos": [
+      {
+        "title": "3-Dars ｜ Lines ｜ To'g'ri chiziqlar",
+        "url": "https://drive.google.com/file/d/1eVC0Vtxv0rSrSAchS-tYag2BHfvBvWUg/view?usp=drivesdk",
+        "tag": "Asosiy Nazariya"
+      },
+      {
+        "title": "4-Dars ｜ Lines 2-qism",
+        "url": "https://drive.google.com/file/d/11VxPD93eNSe-jzn59nJ1li-R2l4mbvtn/view?usp=drivesdk",
+        "tag": "2-Qism Amaliyot"
+      }
+    ],
+    "desmos_videos": [
+      {
+        "title": "Desmos to'liq kurs ｜ 1-Dars",
+        "url": "https://drive.google.com/file/d/1CZ_i0ApZ8yb6o9pWnrJzDoeNSDo6U4vf/view?usp=drivesdk",
+        "tag": "Desmos Asoslari"
+      },
+      {
+        "title": "Desmos to'liq kurs ｜ 1-Dars davomi",
+        "url": "https://drive.google.com/file/d/1uxNZubYOUVG8I6DQfgqGlOMvjAw92wes/view?usp=drivesdk",
+        "tag": "Interfeys & Koordinata"
+      },
+      {
+        "title": "Desmos to'liq kurs ｜ 2-Dars",
+        "url": "https://drive.google.com/file/d/1oD3KRxWK1wvI-3TBEdl58pRZ1MyJpipL/view?usp=drivesdk",
+        "tag": "Chiziqlarni Chizish"
+      }
+    ],
+    "hacks": [
+      {
+        "title": "To'g'ri chiziq tenglamasi",
+        "code": "y = mx + b",
+        "desc": "m - burchak koeffitsiyenti (slope), b - y-kesim (y-intercept). Desmosga yozib slider qo'shing."
+      },
+      {
+        "title": "Ikki nuqtadan o'tuvchi burchak koeffitsiyenti",
+        "code": "m = (y_2 - y_1) / (x_2 - x_1)",
+        "desc": "Desmosda jadval qo'shib, regression y_1 ~ mx_1 + b orqali m ni 2 soniyada aniqlang."
+      }
+    ],
+    "target": 50
+  },
+  {
+    "id": "day-04",
+    "date_str": "4-Noyabr",
+    "day_name": "Chorshanba",
+    "is_today": false,
+    "category": "Algebra",
+    "topic": "Linear Models, Expressions & Systems",
+    "topic_uz": "Ifodalar, Chiziqli Modellar va Tenglamalar Sistemasi (Smooth Start 2)",
+    "weight": "SAT Savollarining ~30% qismi",
+    "badge": "50 Misol Ingest + 30 SR",
+    "summary": "Algebraik ifodalar (Expressions), real hayotiy chiziqli modellar va tenglamalar sistemasini Desmosda kesishish nuqtasi bilan 5 soniyada yechish.",
+    "math_videos": [
+      {
+        "title": "2-Dars ｜ Expressions ｜ Ifodalar",
+        "url": "https://drive.google.com/file/d/1R5gscs_tCRApRyb0p-wtJpnU3dNf4Zf3/view?usp=drivesdk",
+        "tag": "Ifodalar (Expressions)"
+      },
+      {
+        "title": "5-Dars ｜ Interpreting linear models ｜ Chiziqli tenglamalarni qurish",
+        "url": "https://drive.google.com/file/d/1LbXYojdQsKpwt3qBpV8MH1_fFg8kVhqc/view?usp=drivesdk",
+        "tag": "Modellarni Qurish"
+      },
+      {
+        "title": "6-Dars ｜ Interpreting Linear models ishlanishi",
+        "url": "https://drive.google.com/file/d/1t3Qr5SLBc5_9WZDL6PiVZP8ZIMKt7Uhc/view?usp=drivesdk",
+        "tag": "Modellar Ishlanishi"
+      },
+      {
+        "title": "13-Dars ｜ System of equations ｜ Tenglamalar sistemasi",
+        "url": "https://drive.google.com/file/d/1t48_0DW0Cq8rbhEznV6GfANhOF_pEHpq/view?usp=drivesdk",
+        "tag": "Sistemalar 1-Qism"
+      },
+      {
+        "title": "14-Dars ｜ System of equations ｜ Tenglamalar sistemasi 2-qism",
+        "url": "https://drive.google.com/file/d/1jt8bnScI83-OleGhL0E93hMwWknuNbPq/view?usp=drivesdk",
+        "tag": "Sistemalar 2-Qism"
+      }
+    ],
+    "desmos_videos": [
+      {
+        "title": "Desmos to'liq dars ｜ 3- Dars",
+        "url": "https://drive.google.com/file/d/1gmgGFcelQM0n-ld9hfgI22x42azjC2Lu/view?usp=drivesdk",
+        "tag": "Tenglamalarni Yechish"
+      },
+      {
+        "title": "Desmos to'liq kurs ｜ 4-Dars",
+        "url": "https://drive.google.com/file/d/1_oh4aJOvtF_LOFAUf-_WKcZ2zDk5F4on/view?usp=drivesdk",
+        "tag": "Sistemalar Grafigi"
+      }
+    ],
+    "hacks": [
+      {
+        "title": "Sistemani 5 soniyada yechish",
+        "code": "y = 2x + 5\n3x - 4y = 10",
+        "desc": "Ikkala tenglamani Desmosga yozasiz, kulrang kesishish nuqtasini bossangiz, (x, y) javob darhol chiqadi."
+      },
+      {
+        "title": "No Solution (0 ta yechim)",
+        "code": "m_1 = m_2  va  b_1 != b_2",
+        "desc": "Burchak koeffitsiyentlari teng, lekin y-kesimlari har xil bo'lsa, chiziqlar parallel (kesishmaydi)."
+      }
+    ],
+    "target": 50
+  },
+  {
+    "id": "day-05",
+    "date_str": "5-Noyabr",
+    "day_name": "Payshanba",
+    "is_today": false,
+    "category": "Data & Stats",
+    "topic": "Percentages, Absolute Value & Inequalities",
+    "topic_uz": "Foizlar, Modul va Tengsizliklar (Smooth Start 3)",
+    "weight": "SAT Savollarining ~25% qismi",
+    "badge": "50 Misol Ingest + 30 SR",
+    "summary": "O'sish/kamayish multiplikatori, modul |x - a| = d masofasi va tengsizliklar sohasini (shading) Desmosda ko'rish.",
+    "math_videos": [
+      {
+        "title": "17-Dars ｜ Percent ｜ Foiz",
+        "url": "https://drive.google.com/file/d/1DbFgDr6ehV7edNo2DGWF1BwLLuGtYa6u/view?usp=drivesdk",
+        "tag": "Foizlar Nazariyasi"
+      },
+      {
+        "title": "16-Dars ｜ Absolute Value ｜ Modul",
+        "url": "https://drive.google.com/file/d/1DEK2QVLw8sewFWxKlrSbsnQuqBu9kpHN/view?usp=drivesdk",
+        "tag": "Modul (Absolute Value)"
+      },
+      {
+        "title": "19-Dars ｜ Exponential growth davomi vs Inequality",
+        "url": "https://drive.google.com/file/d/1ilWkQyqbq4D9TkpEFTTK5p_86xZJpjZx/view?usp=drivesdk",
+        "tag": "Tengsizliklar Kirish"
+      },
+      {
+        "title": "20-Dars ｜ Inequality vs Angles ｜ Geometry",
+        "url": "https://drive.google.com/file/d/1z6WgNTOG3W_SUEhQONMQAMjyEfOPDs8A/view?usp=drivesdk",
+        "tag": "Inequality vs Angles"
+      }
+    ],
+    "desmos_videos": [
+      {
+        "title": "Desmos to'liq kurs ｜ 5-Dars",
+        "url": "https://drive.google.com/file/d/1SGs6DQWE3zDIGGeRGAOCg4I8GoFGlk4j/view?usp=drivesdk",
+        "tag": "Foiz va Proporsiya"
+      },
+      {
+        "title": "Desmos to'liq kurs ｜ 6-Dars",
+        "url": "https://drive.google.com/file/d/1fl2G2_53Ho6U5MO-ofy0v_C5WVRkZrxp/view?usp=drivesdk",
+        "tag": "Tengsizliklar Sohasi"
+      }
+    ],
+    "hacks": [
+      {
+        "title": "Percent Multiplier",
+        "code": "Old * (1 + r/100) = New",
+        "desc": "25% oshsa 1.25 ga, 15% kamaysa 0.85 ga ko'paytiring."
+      },
+      {
+        "title": "Tengsizliklar sohasi",
+        "code": "y <= 3x + 4\ny > -x + 1",
+        "desc": "Desmos sohalarni rang bilan bo'yaydi. Kesishgan hudud yechimlar to'plami."
+      }
+    ],
+    "target": 50
+  },
+  {
+    "id": "day-06",
+    "date_str": "6-Noyabr",
+    "day_name": "Juma",
+    "is_today": false,
+    "category": "Advanced Math",
+    "topic": "Quadratics Mastery & Parabola",
+    "topic_uz": "Kvadrat Tenglamalar, Cho'qqi (Vertex) va Ildizlar",
+    "weight": "SAT Savollarining ~25% qismi",
+    "badge": "50 Misol Ingest + 30 SR",
+    "summary": "Parabola cho'qqisi (h, k), ildizlar simmetriyasi, diskriminant va Vieta formulalari.",
+    "math_videos": [
+      {
+        "title": "9-Dars ｜ Quadratics - Kvadrat tenglamalar",
+        "url": "https://drive.google.com/file/d/1rL7crShU6exLohV1g5SvAs2r7XsxOaIW/view?usp=drivesdk",
+        "tag": "Nazariya"
+      },
+      {
+        "title": "10-Dars ｜ Quadratics ｜ Kvadrat tenglamalar ishlanishi",
+        "url": "https://drive.google.com/file/d/1djbw5lE18cJUWJCFeZJaYyjCHHwBRtu0/view?usp=drivesdk",
+        "tag": "Ishlanishi"
+      },
+      {
+        "title": "11-Dars ｜ Quadratics davomi",
+        "url": "https://drive.google.com/file/d/1Ms3yvmdSKL7CtFkejMCrGnYvxi7KevK2/view?usp=drivesdk",
+        "tag": "Davomi"
+      },
+      {
+        "title": "12-Dars ｜ Quadratics 3-qism and Systems",
+        "url": "https://drive.google.com/file/d/12LT_MPJPC8qZ00KDTKvBppQLhfn2ws5i/view?usp=drivesdk",
+        "tag": "3-Qism va Sistemalar"
+      }
+    ],
+    "desmos_videos": [
+      {
+        "title": "Desmos to'liq kurs ｜ 7-Dars",
+        "url": "https://drive.google.com/file/d/1SZ49P9Wm0uV_9Hy7nFtJwTOTysidttrR/view?usp=drivesdk",
+        "tag": "Parabola & Vertex"
+      },
+      {
+        "title": "Desmos to'liq kurs ｜ 8-Dars",
+        "url": "https://drive.google.com/file/d/18FWPPzOlt-UA1nDN3fsumHHCBeABu1TN/view?usp=drivesdk",
+        "tag": "Ildizlar & Diskriminant"
+      }
+    ],
+    "hacks": [
+      {
+        "title": "Vertex Form",
+        "code": "y = a(x - h)^2 + k",
+        "desc": "Cho'qqi koordinatasi to'g'ridan-to'g'ri (h, k). Desmosda avtomatik ko'rinadi."
+      },
+      {
+        "title": "Vieta Formulasi",
+        "code": "x_1 + x_2 = -b/a\nx_1 * x_2 = c/a",
+        "desc": "Ildizlarni alohida topmasdan 3 soniyada javobni tanlash."
+      }
+    ],
+    "target": 50
+  },
+  {
+    "id": "day-07",
+    "date_str": "7-Noyabr",
+    "day_name": "Shanba",
+    "is_today": false,
+    "category": "Advanced Math",
+    "topic": "Functions, Transformations & Division",
+    "topic_uz": "Funksiyalar, Siljishlar va Yuzaki Bo'lish (Synthetic Division)",
+    "weight": "SAT Savollarining ~20% qismi",
+    "badge": "50 Misol Ingest + 30 SR",
+    "summary": "f(x + c) va f(x) + c siljishlari, f(g(x)) murakkab kompozitsiyalar va ko'phadlarni bo'lish qoidalari.",
+    "math_videos": [
+      {
+        "title": "7-Dars ｜ Functions ｜ Funksiyalar",
+        "url": "https://drive.google.com/file/d/12zIMRAbsYOa0KyD7uobpcUta_GXZf_LL/view?usp=drivesdk",
+        "tag": "Funksiyalar Asoslari"
+      },
+      {
+        "title": "8-Dars ｜ Functions analizi",
+        "url": "https://drive.google.com/file/d/1R4iJw2LmiQnSDMraFdwY6epFn-gLwbMe/view?usp=drivesdk",
+        "tag": "Funksiyalar Analizi"
+      },
+      {
+        "title": "15-Dars ｜ Synthetic devision ｜ Yuzaki bo'lish",
+        "url": "https://drive.google.com/file/d/1qKSmS_ZMae9sQ-I3FZGyiIGRpGN2YpLJ/view?usp=drivesdk",
+        "tag": "Yuzaki Bo'lish (Synthetic)"
+      }
+    ],
+    "desmos_videos": [
+      {
+        "title": "Desmos to'liq kurs ｜ 9-Dars",
+        "url": "https://drive.google.com/file/d/1RyDbx9R4QmISe5A_kuNJapg9gMr1yz5P/view?usp=drivesdk",
+        "tag": "Transformatsiyalar"
+      },
+      {
+        "title": "Desmos to'liq kurs ｜ 10-Dars",
+        "url": "https://drive.google.com/file/d/1gnHhCDD7890OEosNPwE9pwOhl2H-Z5HN/view?usp=drivesdk",
+        "tag": "Kompozitsiya Desmosda"
+      }
+    ],
+    "hacks": [
+      {
+        "title": "Funksiya aniqlash",
+        "code": "f(x) = 2x^2 - 3x + 7\nf(5)",
+        "desc": "Yuqoriga f(x) yozing, pastda f(5) yoki f(a+1) ni o'zi hisoblaydi."
+      }
+    ],
+    "target": 50
+  },
+  {
+    "id": "day-08",
+    "date_str": "8-Noyabr",
+    "day_name": "Yakshanba",
+    "is_today": false,
+    "category": "Advanced Math",
+    "topic": "Exponents & Exponential Growth",
+    "topic_uz": "Darajalar, Ildizlar va Eksponentsial O'sish",
+    "weight": "SAT Savollarining ~18% qismi",
+    "badge": "50 Misol Ingest + 30 SR",
+    "summary": "y = a(b)^x o'sish va pasayish modellari, kasr darajalar va regressiya bilan parametr topish.",
+    "math_videos": [
+      {
+        "title": "1-Dars ｜ Exponent and Radicals ｜ Darajalar va Ildizlar",
+        "url": "https://drive.google.com/file/d/1vyvkkFB3Vpqa7_F0kuhDOPWqytSjZPCJ/view?usp=drivesdk",
+        "tag": "Darajalar va Ildizlar"
+      },
+      {
+        "title": "18-Dars ｜ Exponential Growth ｜ Darajali o'sish",
+        "url": "https://drive.google.com/file/d/15t7dqtqf1PyuA9YLG2iVmu_ZgqTmqS08/view?usp=drivesdk",
+        "tag": "Eksponentsial O'sish"
+      }
+    ],
+    "desmos_videos": [
+      {
+        "title": "Desmos to'liq kurs ｜ 11-Dars",
+        "url": "https://drive.google.com/file/d/11_BRp6guWRKPXXNdAElOrxRQC6-Q8ROZ/view?usp=drivesdk",
+        "tag": "Eksponent Grafigi"
+      },
+      {
+        "title": "Desmos to'liq kursi ｜ 12-Dars",
+        "url": "https://drive.google.com/file/d/1OE8NA0BXjIu6fdz3a9D_9nHtWhfYtzJC/view?usp=drivesdk",
+        "tag": "Jadval (Table) Regressiyasi"
+      }
+    ],
+    "hacks": [
+      {
+        "title": "Regressiya Hack",
+        "code": "y_1 ~ a * b^{x_1}",
+        "desc": "Jadval kiritib, tilda (~) belgisi bilan a va b parametrlarini darhol oling."
+      }
+    ],
+    "target": 50
+  },
+  {
+    "id": "day-09",
+    "date_str": "9-Noyabr",
+    "day_name": "Dushanba",
+    "is_today": false,
+    "category": "Desmos Hacks",
+    "topic": "Hackathon Day & Strategic Review",
+    "topic_uz": "Hakaton Kuni va Tezkor Mock Tahlili",
+    "weight": "Hakaton 14:15 + Yengil Review",
+    "badge": "Hakaton 14:15 + Yengil Math Review",
+    "summary": "Hakaton kuni ortiqcha charchamaslik uchun o'tgan 6 kungi darslar va Desmos usullarini tezkor takrorlash.",
+    "math_videos": [
+      {
+        "title": "30-Dars ｜ Takrorlash uchun mock",
+        "url": "https://drive.google.com/file/d/1pm8k-_s8cS3RuOW9TBiwVym-Ikq6gZ4i/view?usp=drivesdk",
+        "tag": "Tezkor Mock Tahlili"
+      }
+    ],
+    "desmos_videos": [
+      {
+        "title": "Desmos to'liq kursi ｜ 14- Dars",
+        "url": "https://drive.google.com/file/d/1rCwQW9svsJ-nEWZZN4boV_bs39kMMO1w/view?usp=drivesdk",
+        "tag": "Slider va Parametrlar"
+      },
+      {
+        "title": "Desmos to'liq kursi ｜ 25-Dars",
+        "url": "https://drive.google.com/file/d/1nEbpRcGbTLn3Gx7_hQCKf7l2V7b3IdpH/view?usp=drivesdk",
+        "tag": "Tezlik Strategiyalari"
+      }
+    ],
+    "hacks": [
+      {
+        "title": "Slider Hack",
+        "code": "y = mx + b (add slider m, b)",
+        "desc": "Noma'lumlarni grafikni surish orqali ko'z bilan 2 soniyada topish."
+      }
+    ],
+    "target": 25
+  },
+  {
+    "id": "day-10",
+    "date_str": "10-Noyabr",
+    "day_name": "Seshanba",
+    "is_today": false,
+    "category": "Geometry",
+    "topic": "Circles & Angles Geometry",
+    "topic_uz": "Aylana Tenglamasi, Burchaklar va Shakllar",
+    "weight": "SAT Savollarining ~15% qismi",
+    "badge": "50 Misol Ingest + 30 SR",
+    "summary": "(x - h)^2 + (y - k)^2 = r^2 formulasi, markaz va radius, to'liq kvadratga keltirish xakerligi.",
+    "math_videos": [
+      {
+        "title": "21-Dars ｜ Angles analizi vs Circle mavzusi",
+        "url": "https://drive.google.com/file/d/13Qc-L5yez0lce235rEJY9a_pJo5wnGBn/view?usp=drivesdk",
+        "tag": "Burchaklar va Aylana"
+      },
+      {
+        "title": "22-Dars ｜ Circle analizi",
+        "url": "https://drive.google.com/file/d/18m02uUABDB3G1vYwu5HXpl-FBt8y0Omf/view?usp=drivesdk",
+        "tag": "Aylana Analizi"
+      },
+      {
+        "title": "23-Dars ｜ Circles 2-qism and Shapes",
+        "url": "https://drive.google.com/file/d/1Q5SGqCZS3Ti7GcBBGsUmTkgBtLrYkX0b/view?usp=drivesdk",
+        "tag": "Aylana 2-Qism va Shakllar"
+      }
+    ],
+    "desmos_videos": [
+      {
+        "title": "Desmos to'liq kursi ｜ 15-Dars",
+        "url": "https://drive.google.com/file/d/10wFOb6DbzmTKYQaqwntYc-OrL4BTOb4K/view?usp=drivesdk",
+        "tag": "Aylana Desmosda"
+      },
+      {
+        "title": "Desmos to'liq kursi ｜ 16-Dars",
+        "url": "https://drive.google.com/file/d/1jFBb-NPjgpVPZpFV1ZVixSkIloWA9PbD/view?usp=drivesdk",
+        "tag": "Geometrik Xakerlik"
+      }
+    ],
+    "hacks": [
+      {
+        "title": "Aylana Markazi va Radiusi",
+        "code": "x^2 + y^2 - 6x + 8y = 24",
+        "desc": "To'g'ridan-to'g'ri Desmosga yozasiz, markaz va radius ko'z oldingizda chiqadi."
+      }
+    ],
+    "target": 50
+  },
+  {
+    "id": "day-11",
+    "date_str": "11-Noyabr",
+    "day_name": "Chorshanba",
+    "is_today": false,
+    "category": "Geometry",
+    "topic": "Trigonometry & Triangles",
+    "topic_uz": "Trigonometriya, Maxsus Uchburchaklar va Burchaklar",
+    "weight": "SAT Savollarining ~15% qismi",
+    "badge": "50 Misol Ingest + 30 SR",
+    "summary": "sin, cos, tan nisbatlari, komplementar burchaklar sin(x) = cos(90 - x), 30-60-90 va 45-45-90 nisbatlari.",
+    "math_videos": [
+      {
+        "title": "25-Dars ｜ Trigonometry",
+        "url": "https://drive.google.com/file/d/1zJso5EZxhMKJQbCFDI_3_KFo_rta2-VI/view?usp=drivesdk",
+        "tag": "Trigonometriya Asoslari"
+      },
+      {
+        "title": "26-Dars ｜ Trigonometry analizi",
+        "url": "https://drive.google.com/file/d/1l2Q9eq64o61e1ok4f2tBr4Zh1ml6UJfv/view?usp=drivesdk",
+        "tag": "Trigonometriya Analizi"
+      }
+    ],
+    "desmos_videos": [
+      {
+        "title": "Desmos to'liq kursi ｜ 17-Dars",
+        "url": "https://drive.google.com/file/d/1oWriK5XSS0tB2ZS6BwKDsHMQOkhQpgKR/view?usp=drivesdk",
+        "tag": "Trig Grafiklar"
+      },
+      {
+        "title": "Desmos to'liq kursi ｜ 18-Dars",
+        "url": "https://drive.google.com/file/d/1TmbPewUcvbr3HUBxG539RV9j9944NqFS/view?usp=drivesdk",
+        "tag": "Degree / Radian Rejimi"
+      }
+    ],
+    "hacks": [
+      {
+        "title": "Komplementar Burchaklar",
+        "code": "sin(x) = cos(90 - x)",
+        "desc": "Agar sin(2a) = cos(3a + 15) bo'lsa: 2a + 3a + 15 = 90."
+      }
+    ],
+    "target": 50
+  },
+  {
+    "id": "day-12",
+    "date_str": "12-Noyabr",
+    "day_name": "Payshanba",
+    "is_today": false,
+    "category": "Geometry",
+    "topic": "Similar Shapes & Congruence",
+    "topic_uz": "O'xshash Shakllar, Yuzalar va Hajmlar Nisbati",
+    "weight": "SAT Savollarining ~12% qismi",
+    "badge": "50 Misol Ingest + 30 SR",
+    "summary": "Chiziqli nisbat k, yuzalar nisbati k^2, hajmlar nisbati k^3.",
+    "math_videos": [
+      {
+        "title": "24-Dars ｜ Shapes analizi",
+        "url": "https://drive.google.com/file/d/1Opm_JDKF8jB_SRab55tB18X3jv5YeBOz/view?usp=drivesdk",
+        "tag": "Shakllar Analizi"
+      },
+      {
+        "title": "27-Dars ｜ Similar shapes and Congurent triangles",
+        "url": "https://drive.google.com/file/d/1imkr2FWHBW4EL2cVKC9LonsjRhxC9Pn0/view?usp=drivesdk",
+        "tag": "O'xshash Uchburchaklar"
+      }
+    ],
+    "desmos_videos": [
+      {
+        "title": "Desmos to'liq kurs ｜ 19-Dars",
+        "url": "https://drive.google.com/file/d/10pkBKzhXB857PN-wX9ELTRcCOaBJ26pl/view?usp=drivesdk",
+        "tag": "Geometrik Nisbatlar"
+      },
+      {
+        "title": "Desmos to'liq kursi ｜ 20-Dars",
+        "url": "https://drive.google.com/file/d/1JmXFja4kW9CPZ5VBFPI2Xyica374gUl4/view?usp=drivesdk",
+        "tag": "Ko'pburchaklar Desmosda"
+      }
+    ],
+    "hacks": [
+      {
+        "title": "Yuza va Hajm Qoidasi",
+        "code": "A_1 / A_2 = (s_1 / s_2)^2\nV_1 / V_2 = (s_1 / s_2)^3",
+        "desc": "Tomon 2x oshsa, yuzi 4x, hajmi 8x oshadi."
+      }
+    ],
+    "target": 50
+  },
+  {
+    "id": "day-13",
+    "date_str": "13-Noyabr",
+    "day_name": "Juma",
+    "is_today": false,
+    "category": "Data & Stats",
+    "topic": "Statistics & Data Analysis",
+    "topic_uz": "Statistika: O'rtacha Qiymat, Mediana va Standart Og'ish",
+    "weight": "SAT Savollarining ~18% qismi",
+    "badge": "50 Misol Ingest + 30 SR",
+    "summary": "Mean, median, mode, range va standard deviation. Qaysi parametr outlierlarga chidamli?",
+    "math_videos": [
+      {
+        "title": "28-Dars ｜ Similar shapes analizi vs Statistics",
+        "url": "https://drive.google.com/file/d/1BImyygnkQITcY-Fh37YzH6lqbw9-q8Ug/view?usp=drivesdk",
+        "tag": "Statistika Asoslari"
+      }
+    ],
+    "desmos_videos": [
+      {
+        "title": "Desmos to'liq kursi ｜ 21-Dars",
+        "url": "https://drive.google.com/file/d/15jp93zvrD3tCMsguPIGHRuPZmzV2959x/view?usp=drivesdk",
+        "tag": "Mean, Median, Boxplot"
+      },
+      {
+        "title": "Desmos to'liq kursi ｜ 22-Dars",
+        "url": "https://drive.google.com/file/d/1anvWkoQcLwfDJYU26Y4qa-z_up5A1qBF/view?usp=drivesdk",
+        "tag": "Standart Og'ish"
+      }
+    ],
+    "hacks": [
+      {
+        "title": "Mean va Median",
+        "code": "mean([12, 14, 18, 22, 35])\nmedian([12, 14, 18, 22, 35])",
+        "desc": "Qo'lda hisoblamasdan ro'yxat kiritib 1 soniyada javob oling."
+      }
+    ],
+    "target": 50
+  },
+  {
+    "id": "day-14",
+    "date_str": "14-Noyabr",
+    "day_name": "Shanba",
+    "is_today": false,
+    "category": "Data & Stats",
+    "topic": "Probability & Unit Conversions",
+    "topic_uz": "Ehtimollik va Ko'p Bosqichli Birliklar",
+    "weight": "SAT Savollarining ~15% qismi",
+    "badge": "50 Misol Ingest + 30 SR",
+    "summary": "Shartli ehtimollik P(A|B) jadval tahlili, zanjirli birliklar o'tkazish.",
+    "math_videos": [
+      {
+        "title": "29-Dars ｜ Probability and Unit Conversions",
+        "url": "https://drive.google.com/file/d/1JNlhvuINt7foRQGXMwoO-O7taEw6FhTG/view?usp=drivesdk",
+        "tag": "Ehtimollik va Birliklar"
+      }
+    ],
+    "desmos_videos": [
+      {
+        "title": "Desmos to'liq kursi ｜ 23-Dars",
+        "url": "https://drive.google.com/file/d/1VZ4mE5r-KpwO3qgD4uxX8SKp_8yR9uq7/view?usp=drivesdk",
+        "tag": "Shartli Ehtimollik"
+      },
+      {
+        "title": "Desmos to'liq kursi ｜ 24-dars",
+        "url": "https://drive.google.com/file/d/13kqrg9qkjRt3LavYpJ3uIEQnC3cg91qZ/view?usp=drivesdk",
+        "tag": "Birliklar Konvertatsiyasi"
+      }
+    ],
+    "hacks": [
+      {
+        "title": "Shartli Ehtimollik",
+        "code": "P(A | B) = N(A va B) / N(B)",
+        "desc": "Jadvalda umumiy jami emas, faqat 'B' guruhining qatori/ustuni maxraj bo'ladi."
+      }
+    ],
+    "target": 50
+  },
+  {
+    "id": "day-15",
+    "date_str": "15-Noyabr",
+    "day_name": "Yakshanba",
+    "is_today": false,
+    "category": "Desmos Hacks",
+    "topic": "Diagnostic Mock & Desmos 800 Masterclass",
+    "topic_uz": "To'liq Diagnostik Mock va Desmos 800 Masterclass Final",
+    "weight": "Yakuniy 800 Ball Strategiyasi",
+    "badge": "To'liq Math Mock + 800 Strategiyasi",
+    "summary": "44 ta savoldan iborat to'liq Math Mock testi va qiyin Module 2 savollarini Desmos orqali 100% yechish.",
+    "math_videos": [
+      {
+        "title": "30-Dars ｜ Takrorlash uchun mock",
+        "url": "https://drive.google.com/file/d/1pm8k-_s8cS3RuOW9TBiwVym-Ikq6gZ4i/view?usp=drivesdk",
+        "tag": "To'liq Mock 44 Savol"
+      }
+    ],
+    "desmos_videos": [
+      {
+        "title": "Desmos to'liq kursi ｜ 26-Dars",
+        "url": "https://drive.google.com/file/d/1qPhRVfudbvD6ZBmH8KUfA0d1K8n0Ithn/view?usp=drivesdk",
+        "tag": "Hard Savollar Yechimi"
+      },
+      {
+        "title": "Desmos to'liq kursi ｜ 27-Dars",
+        "url": "https://drive.google.com/file/d/15qtOq6WwzTPJuyEPLTFrBPh3UEkUWZxJ/view?usp=drivesdk",
+        "tag": "Vaqt Tejash Xakerligi"
+      },
+      {
+        "title": "Desmos to'liq kursi ｜ 28-Dars",
+        "url": "https://drive.google.com/file/d/1U_I2CTCHwEgL5nTaQgRoRO9_HC5YOV6T/view?usp=drivesdk",
+        "tag": "Qopqon Savollar (Traps)"
+      },
+      {
+        "title": "Desmos to'liq kursi ｜ 29-Dars",
+        "url": "https://drive.google.com/file/d/128nHT0sZPfGyZEsJfQqyzoNzFNNLDGqQ/view?usp=drivesdk",
+        "tag": "Modul 2 Hard Strategiyasi"
+      },
+      {
+        "title": "Desmos to'liq kursi ｜ 30-Dars",
+        "url": "https://drive.google.com/file/d/1G2mmExp_rKRGUD9DyK6XIc5EEBdMVpNq/view?usp=drivesdk",
+        "tag": "Desmos Masterclass Final"
+      }
+    ],
+    "hacks": [
+      {
+        "title": "Vaqtni taqsimlash formulasi",
+        "code": "Desmos: 30-45 sek | Algebra: 60-90 sek",
+        "desc": "Murakkab savollarni Desmosga topshiring va 15 daqiqa vaqt zaxirasi yarating."
+      }
+    ],
+    "target": 44
+  }
+]
